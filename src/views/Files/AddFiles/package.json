@@ -1,0 +1,6 @@
+{
+  "name": "AddFiles",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AddFiles.js"
+}

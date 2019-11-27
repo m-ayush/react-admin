@@ -1,0 +1,21 @@
+.UplodeIconImage {
+  position: relative;
+  display: inline-block;
+  input {
+    opacity: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: block;
+    top: 0;
+    cursor: pointer;
+    left: 0;
+  }
+  .icon-picture {
+    font-size: 35px;
+  }
+}
+.imagelabel {
+  display: block;
+  width: 100%;
+}

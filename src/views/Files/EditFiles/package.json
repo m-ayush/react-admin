@@ -1,0 +1,6 @@
+{
+  "name": "EditFiles",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EditFiles.js"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Positionlist",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Positionlist.js"
+}

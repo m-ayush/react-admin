@@ -1,0 +1,6 @@
+{
+  "name": "EditPosition",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EditPosition.js"
+}

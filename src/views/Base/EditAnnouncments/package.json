@@ -1,0 +1,6 @@
+{
+  "name": "EditAnnouncments",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EditAnnouncments.js"
+}
